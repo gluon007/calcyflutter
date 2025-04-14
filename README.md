@@ -29,8 +29,7 @@ This is a simple calculator app built with Flutter.
 ## Download APK
 
 The APK file for this app can be downloaded from:
-
-[Replace this with the actual APK file name and path]
+https://github.com/gluon007/calcyflutter/raw/refs/heads/main/app-release.apk
 
 ## Screenshots
 
