@@ -33,7 +33,12 @@ https://github.com/gluon007/calcyflutter/raw/refs/heads/main/app-release.apk
 
 ## Screenshots
 
-[Add screenshots of the app here]
+![image](https://github.com/user-attachments/assets/87f230df-cb17-4f7f-8d26-5aa48d7bce3a)
+![image](https://github.com/user-attachments/assets/ae340b93-23c5-4457-87d1-5acce00747a4)
+![image](https://github.com/user-attachments/assets/53eb5f9a-fcda-496e-8809-098998980468)
+
+
+
 
 ## Contributing
 
